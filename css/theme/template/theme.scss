@@ -349,4 +349,13 @@ body {
 		        transition: width 800ms cubic-bezier(0.260, 0.860, 0.440, 0.985);
 	}
 
-
+.column-left {
+	width: 50%;
+	float:left;
+	ul li {
+		font-size: 70%;
+	}
+	ul.bigger li {
+		font-size: 100%;
+	}
+}

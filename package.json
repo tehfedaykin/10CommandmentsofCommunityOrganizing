@@ -1,9 +1,9 @@
 {
-  "name": "reveal.js",
-  "version": "3.5.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
-  "subdomain": "revealjs",
+  "name": "10CommandmentsofCommunityOrganizing",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "kcwomenintech.org",
+  "subdomain": "",
   "main": "js/reveal.js",
   "scripts": {
     "test": "grunt test",
@@ -11,13 +11,13 @@
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Jennifer Wadella",
+    "email": "jennifer.wadella@kcwomenintech.org",
+    "web": ""
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "https://github.com/tehfedaykin/10CommandmentsofCommunityOrganizing.git"
   },
   "engines": {
     "node": ">=4.0.0"

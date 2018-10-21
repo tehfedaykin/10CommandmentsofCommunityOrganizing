@@ -1467,3 +1467,78 @@ body {
 .zoomed .reveal .roll span:after {
 	visibility: hidden;
 }
+
+.twitter-overlay {
+	position: absolute;
+	bottom: 5%;
+	left: 5%;
+	display: block;
+	width: 50%;
+	span {
+		font-family: 'Source Sans Pro', Helvetica, sans-serif;;
+		color: #D3D3D3;
+		display: inline-block;
+		margin-right: 2.5%;
+		float: left;
+	}
+}
+
+.block {
+	width: 50%;
+	float: left;
+
+	.plain {
+		width: 50%;
+		border-radius: 50%;
+	}
+}
+
+.small {
+	font-size: 80% !important;
+}
+
+.img-overlay {
+	position: absolute !important;
+}
+
+.speaker-title {
+	display: flex;
+	.flex-1 {
+		flex: 1;
+		.circle {
+			border-radius: 50%;
+			width: 60%;
+		}
+	}
+	.flex-2 {
+		flex: 2;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+	}
+}
+
+.kc-overlay {
+  position: absolute;
+  top: 25%;
+  left: 35%;
+}
+
+#me {
+  .warning {
+    margin-top: 2em;
+    display: flex;
+    justify-content: center;
+    img {
+      height: 1.5em;
+      margin: 0 .5em;
+    }
+    p {
+      line-height: 1.5em;
+    }
+  }
+}
+
+.smaller {
+	font-size: 60% !important;
+}

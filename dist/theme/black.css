@@ -37,10 +37,10 @@ section.has-light-background, section.has-light-background h1, section.has-light
 
 .reveal-viewport {
   background-color: #191919;
-  background-image: url("../../img/splash1.jpg");
+  background-image: url("../../img/mountain2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top left;
+  background-position: bottom left;
   background-color: #191919; }
 
 .reveal {
@@ -305,7 +305,8 @@ section.has-light-background, section.has-light-background h1, section.has-light
   width: 50%; }
   .twitter-overlay span {
     font-family: 'Source Sans Pro', Helvetica, sans-serif;
-    color: #91ebf4;
+    color: #0a0a0a;
+    text-shadow: 1px 1px 1px #989898;
     margin-right: 2.5%;
     float: right;
     font-size: 1.25em; }
